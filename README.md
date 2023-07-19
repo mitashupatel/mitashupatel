@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mitashu Patel</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer(Spring-Boot - Java, React - JavaScript</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitashupatel" alt="mitashupatel" /></a> </p>
 
-- 📝 I regularly write articles on [Javascript, Java, React, Spring-Boot, Productivity Booster](Javascript, Java, React, Spring-Boot, Productivity Booster)
+- 📝 I regularly write articles on [Javascript, Java, React, Spring-Boot, Productivity Booster]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
